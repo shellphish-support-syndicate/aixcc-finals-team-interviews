@@ -1,5 +1,7 @@
 # Team Theori's AI Cyber Challenge System - Technical Summary
 
+[Video](https://www.youtube.com/watch?v=LTOyP_3aFP0&t=5133s)
+
 This transcript details Team Theori's "Robo-Duck" cyber reasoning system (CRS) developed for the DARPA AI Cyber Challenge (AIxCC). Here are the key technical aspects:
 
 ## System Architecture
