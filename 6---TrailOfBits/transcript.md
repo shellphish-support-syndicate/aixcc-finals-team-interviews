@@ -452,7 +452,11 @@ But yeah, when it came to the Java examples, we had some engineering issues that
 
 **Adam:** Were there any - I think you mentioned it before with the file names. Were there any other close call bugs that made it into the system that your testing caught and that you're now very happy that you found it and-
 
-**Michael:** Yeah, that was the worst one that made it in that actually went to a round that we didn't find in advance. The file name one. Yeah. And that one was had a lot to do with just needing to see new examples. We needed a stack trace that was long enough that when you compute it into a file name that it exceeds the length. So yeah, we had a couple of other close calls here or there with stuff that we had to patch a day before we went in, but we were really good about being pencils down several days at least on the branch that we were going to submit. Pencils down a couple days before.
+**Michael:** Yeah, that was the worst one that made it in that actually went to a round that we didn't find in advance.
+
+**Yan:** The file name one.
+
+**Michael:** Yeah. And that one was had a lot to do with just needing to see new examples. We needed a stack trace that was long enough that when you compute it into a file name that it exceeds the length. So yeah, we had a couple of other close calls here or there with stuff that we had to patch a day before we went in, but we were really good about being pencils down several days at least on the branch that we were going to submit. Pencils down a couple days before.
 
 So our typical approach to a deadline for an exhibition round was, the deadlines were usually on Wednesday or Thursday. We would be pencil down on Friday. We'd run a full-scale test over the weekend. We'd come back. Whatever issues that broke, we would fix on Monday, run another shorter full scale test on Tuesday, Wednesday, fixing only those small bugs that we had high confidence in and then push out.
 
@@ -462,15 +466,17 @@ But that being said, we have a couple of bugs that - or a couple of Heisen bugs 
 
 So even though I didn't do any work on let's say or a lot of heavy lifting on like let's say the fuzzing or the patching, I was asked to do different pull requests. So I it gave me a lot of opportunity to ask lots of questions and kind of gut check the design decisions and these things. So, I think a lot of having your own ownership and then also getting double checked by your teammates was also what led to us not experiencing that many issues leading up to the exhibition challenges.
 
-**Adam:** Yeah, that's great. It was probably helpful even having eyes on and knowledge of other components. So, if they did hit issues, you have some redundancy built into the software engineering process in some sense. Very cool. Yeah. Any other...
+**Adam:** Yeah, that's great. It was probably helpful even having eyes on and knowledge of other components. So, if they did hit issues, you have some redundancy built into the software engineering process in some sense. Very cool. Yan. Any other...
 
-## Favorite AI Models
+## Favorite AI Models  
 
 **Adam:** Yeah, please go ahead. Yeah, the question the audience clamors for. Who's your favorite AI?
 
-**Michael:** We just talked about anthropomorphizing AIs on this episode. I know. That's why I said, "What is your favorite AI?"
+**Adam:** We just talked about anthropomorphizing AIs on this episode. I know. That's why I said, "What is your favorite AI?"
 
-Okay, there you go. Man, I mean, I don't know. My favorite AI is whichever one happens to do the best job of solving the particular task because they all seem to be different. I don't know. I'd say generally right now I probably use Claude for more tasks than anything else. Really good at code generation. So I don't know. The great news is we have a super diplomatic answer if you're asking how does our CRS use it? We were split 50/50 between OpenAI and Anthropic. Anthropic is we use that primarily for CWE and it's the fall back for patching and OpenAI is the primary for patching and the fall back for CWE.
+Okay, there you go.
+
+**Michael:** Man, I mean, I don't know. My favorite AI is whichever one happens to do the best job of solving the particular task because they all seem to be different. I don't know. I'd say generally right now I probably use Claude for more tasks than anything else. Really good at code generation. So I don't know. The great news is we have a super diplomatic answer if you're asking how does our CRS use it? We were split 50/50 between OpenAI and Anthropic. Anthropic is we use that primarily for CWE and it's the fall back for patching and OpenAI is the primary for patching and the fall back for CWE.
 
 So I think we have officially managed to by sheer luck avoid offending either of the major tech players. Google might be mad at us because we didn't use Gemini, but we did use Gemini 1.5 as a fallback in the semis. So they were helpful there. But yeah, honestly, I'd say I probably use Claude more than anything else. But, I admit I'm probably pretty sparing at AI use to be completely honest. And that's just mainly due to the nature of the work we're in. We're in the business of novelty. We find novel bugs, we find novel patches. Everything we do is new and hasn't been seen before. And that is not something LLMs are good at doing when it comes to the problem domain of cyber security because vulnerabilities, software bugs, they don't exist on this differentiable curve that you can match. They're all these fundamentally different concepts.
 
