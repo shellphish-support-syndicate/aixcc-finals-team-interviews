@@ -442,11 +442,11 @@ But yeah, we took a pretty conservative approach and that's mainly because I rea
 
 **Michael:** Yeah, I think that's a really fair description.
 
-## Final Thoughts and Results Prediction
+## Final Thoughts and Results Prediction [1:21:49](https://youtu.be/BmCWryz3dsU?t=4909)
 
-**Adam:** So then the $4 million question, where's all of this going to go? What place do you think you're getting?
+**Yan:** So then the $4 million question, where's all of this going to go? What place do you think you're getting?
 
-**Michael:** You know, I think we're in the 51st percentiles, somewhere between one and four. I think we'd probably be pretty surprised if we ended up in the bottom half. A lot of this is just based on prior performance. We did really well in the semis. We found a lot of bugs first. We patched a lot of bugs first. We had some obvious issues with finding Java. The Linux kernel was a disaster. I'm not even counting that as a CPS. I kind of black out when I think that it was even involved in the first place, but fortunately it didn't show back up.
+**Michael:** You know, I think we're in the 51st percentiles, somewhere between one and four. I think we'd probably be pretty surprised if we ended up in the bottom half. A lot of this is just based on prior performance. We did really well in the semis. We found a lot of bugs first. We patched a lot of bugs first. We had some obvious issues with finding Java. The Linux kernel was a disaster. I'm not even counting that as a CP. I kind of black out when I think that it was even involved in the first place, but fortunately it didn't show back up.
 
 But yeah, when it came to the Java examples, we had some engineering issues that prevented us. So maybe that was why we were hyperfocused on engineering in the second half to make sure we didn't leave stuff on the table. But yeah.
 
