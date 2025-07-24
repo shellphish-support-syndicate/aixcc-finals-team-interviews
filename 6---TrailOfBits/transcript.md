@@ -476,7 +476,7 @@ So even though I didn't do any work on let's say or a lot of heavy lifting on li
 
 Okay, there you go.
 
-**Michael:** Man, I mean, I don't know. My favorite AI is whichever one happens to do the best job of solving the particular task because they all seem to be different. I don't know. I'd say generally right now I probably use Claude for more tasks than anything else. Really good at code generation. So I don't know. The great news is we have a super diplomatic answer if you're asking how does our CRS use it? We were split 50/50 between OpenAI and Anthropic. Anthropic is we use that primarily for CWE and it's the fall back for patching and OpenAI is the primary for patching and the fall back for CWE.
+**Michael:** Man, I mean, I don't know. My favorite AI is whichever one happens to do the best job of solving the particular task because they all seem to be different. I don't know. I'd say generally right now I probably use Claude for more tasks than anything else. Really good at code generation. So I don't know. The great news is we have a super diplomatic answer if you're asking how does our CRS use it? We were split 50/50 between OpenAI and Anthropic. Anthropic is we use that primarily for seed gen and it's the fall back for patching and OpenAI is the primary for patching and the fall back for seed gen.
 
 So I think we have officially managed to by sheer luck avoid offending either of the major tech players. Google might be mad at us because we didn't use Gemini, but we did use Gemini 1.5 as a fallback in the semis. So they were helpful there. But yeah, honestly, I'd say I probably use Claude more than anything else. But, I admit I'm probably pretty sparing at AI use to be completely honest. And that's just mainly due to the nature of the work we're in. We're in the business of novelty. We find novel bugs, we find novel patches. Everything we do is new and hasn't been seen before. And that is not something LLMs are good at doing when it comes to the problem domain of cyber security because vulnerabilities, software bugs, they don't exist on this differentiable curve that you can match. They're all these fundamentally different concepts.
 
@@ -486,15 +486,21 @@ So yeah, for my work I don't use it a ton, but I use Claude probably the most. E
 
 I will say it was fun. I actually had to do - I had to give a talk in a couple months and I just recorded myself talking in just an audio clip of what I wanted to say in my presentation and uploaded that plus the report that I co-authored to I think it was Claude Sonnet and it spit out this - I was like hey I need 10 slides I need them to cover these specific key points and it gave me this cool just boilerplate outline of like hey on this slide talk about these three points because you mentioned this. So, it's kind of a nice thing to get started. I guess it's a good starter for that kind of stuff.
 
-**Michael:** It's the professor trick. It's so hard to write a paper when it's blank. It is so much easier to shape and edit a student's paper that they have written. It's shocking how much that difference is like and there's also experience and all that, but Yan knows because he just very recently wrote co-wrote a first author paper and I don't know what I was thinking.
+**Adam:** It's the professor trick. It's so hard to write a paper when it's blank. It is so much easier to shape and edit a student's paper that they have written. It's shocking how much that difference is like and there's also experience and all that, but Yan knows because he just very recently wrote co-wrote a first author paper and
 
-**Yan:** Yeah. Yeah, for the first time done with that over a decade. No, eight years.
+**Yan:** I don't know what I was thinking.
 
-**Adam:** Wow. Well, see you'll get there. I thought that was the whole point of getting a tenure track position is you never have to do that again. That's all your students.
+**Adam:** Yeah, for the first time in over a decade?
 
-**Yan:** I was thinking flip side of a tenure track position is you have the freedom to make stupid mistakes like writing a first paper.
+**Yan:** No, eight years.
 
-**Michael:** It's so much work. We ask our students to do this all the time. It's so much work. You forget about it. You only the good memories like yeah we finished it was published. The actual track at 5 a.m. 4:47 a.m. 13 minutes before the deadline. Why did I do this to myself?
+**Adam:** Wow. Well, see you'll get there.
+
+**Michael:** I thought that was the whole point of getting a tenure track position is you never have to do that again. That's all your students.
+
+**Adam:** I was thinking flip side of a tenure track position is you have the freedom to make stupid mistakes like writing a first paper.
+
+**Yan:** It's so much work. We ask our students to do this all the time. It's so much work. You forget about it. You only the good memories like yeah we finished it was published. The actual track at 5 a.m. 4:47 a.m. 13 minutes before the deadline. Why did I do this to myself?
 
 **Adam:** On the flip side, that's their full-time job. You also have are doing several things. So, that's right. A little bit of a difference there. I had a meeting today. I'm dead.
 
@@ -502,12 +508,16 @@ I will say it was fun. I actually had to do - I had to give a talk in a couple m
 
 **Adam:** I was just going to say I was pushing the team. The team wants to do a nice sanitized open source release and redact the history and I'm like show the people the guts of the sausage. I they want to see all the crazy comments where you're being like "why the f doesn't this work" and "magic hack to get this thing to work." And yeah, I was also pushing for that for CTF challenges, but nobody likes to show the history. They just want to see the finished product.
 
-**Michael:** AICC is too high profile. I don't want to get all the nerd sniping after this.
+**Michael:** AICxC is too high profile. I don't want to get all the nerd sniping after this.
 
 **Adam:** And that's 100% correct. I think that's totally fair. And I wrote very little to none of the code, so it doesn't affect me at all.
 
-**Yan:** Nice. One of the other benefits of being a tenure track professor, right?
+**Evan:** Nice.
 
-**Adam:** Yes. Yes. We were Yan and I were in advisory roles, helping with helping out when when stuff needed helping out. But cool. Everyone went hands-on, but you know.
+**Michael:** One of the other benefits of being a tenure track professor, right?
 
-**Adam:** Yeah. Exactly. You got to. Yeah. All right. Well, thank you so much for Trail of Bits and specifically Michael and Evan for joining us today. I'm Adam D. You can find me online at Adam Dupe. He's Zardis. You can find him online at zardis. Together, we're CTF radio and you can find us online at CTFradio. You can send us questions through email at ctfradio@gmail.com. And your questions might end up on a future episode of CTF radio. Take care and happy hacking.
+**Adam:** Yes. Yes. We were Yan and I were in advisory roles, helping with helping out when when stuff needed helping out. But cool.
+
+**Yan:** Everyone went hands-on, but you know.
+
+**Adam:** Yeah. Exactly. You got to. Yeah. All right. Well, thank you so much for Trail of Bits and specifically Michael and Evan for joining us today. I'm Adam D. You can find me online at Adam Dupe. He's Zardus. You can find him online at zardus. Together, we're CTF radio and you can find us online at CTFradiooo. You can send us questions through email at ctfradio@gmail.com. And your questions might end up on a future episode of CTF radio. Take care and happy hacking.
