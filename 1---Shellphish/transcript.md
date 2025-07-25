@@ -172,7 +172,7 @@
 
 **Yan:** So, in terms of like a sound bite, would you're saying that for the first three or four months of the AI cyber challenge, Shellphish ignored the AI part?
 
-**Lukas:** Oh, absolutely. To be fair, partially intentionally because we very much did like the kitchen think of like, hey, we know what works, right? We've done research in cyber security and program analysis for a long time. We know the traditional techniques that work. So obviously the first thing we put in was everything that we know works already. So AFL Jazzer, right? Like our traditional fuzzers, syscaller at the time for the Linux kernel. We just put in the things that we know worked already because a me included some of our team members were still pretty skeptical of the capability of these LLMs. But also b because we just didn't think they were necessary. Right.
+**Lukas:** Oh, absolutely. To be fair, partially intentionally because we very much did like the kitchen shink of like, hey, we know what works, right? We've done research in cyber security and program analysis for a long time. We know the traditional techniques that work. So obviously the first thing we put in was everything that we know works already. So AFL Jazzer, right? Like our traditional fuzzers, syscaller at the time for the Linux kernel. We just put in the things that we know worked already because a me included some of our team members were still pretty skeptical of the capability of these LLMs. But also b because we just didn't think they were necessary. Right.
 
 **Adam:** And rightfully so. At that point in time, we're talking 2023, right?
 
