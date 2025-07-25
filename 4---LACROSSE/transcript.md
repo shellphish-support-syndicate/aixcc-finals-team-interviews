@@ -129,7 +129,7 @@ And since our team basically owns that software and SIFT is not a big organizati
 
 **Yan:** Yeah. What was the original name?
 
-**Adam:** It was MechAIPhish
+**Adam:** It was MechAIPhish.
 
 **Yan:** Because Mechanical Phish was our CGC entry, and then ARTIPHISHELL came up later. 
 
@@ -179,13 +179,17 @@ And we did talk, by the way, about throwing everything out at the beginning and 
 
 **Adam:** Yeah, maybe we'll get there. But it does make sense - you're a company. This is something that you're using internally. It's not like you have used it for other projects as you mentioned. I'm sure you'll use it for other things in the future. So you know, it makes sense to build on top of a core that you already have.
 
-Whereas a non-coordinated hacking team like Shellphish, the exact same thing happens every year with our shooter in an attack-defense capture system - like the thing that submits or runs exploits against people. I've seen in my what, 15-20 years of CTFs, Yan, like probably 20 different ones. Like it's just wild. Like every year some new person is like "how hard could it be? I'll do it better. Mine won't..." I've been that person once.
+Whereas a non-coordinated hacking team like Shellphish, the exact same thing happens every year with our shooter in an attack-defense capture system - like the thing that submits or runs exploits against people. I've seen in my what, 15-20 years of CTFs, Yan, like probably 20 different ones. Like it's just wild. Like every year some new person is like "how hard could it be? I'll do it better. Mine won't..."
 
-**Dave:** Yeah, the problem - well, the difference with our model is that you underestimate the difficulty of something completely different, right? With the throw-it-all-away model, you've underestimated how difficult it is to rebuild this thing that you had working over on the side. We started with a fully functioning system on the wrong platform and kept developing it and making it better, not really understanding how much work it was going to be near the end of the project to get it all working on a new platform. And so, okay, that's first system syndrome, I guess.
+**Yan:** I've been that person once.
+
+**Mike:** Yeah, the problem - well, the difference with our model is that you underestimate the difficulty of something completely different, right? With the throw-it-all-away model, you've underestimated how difficult it is to rebuild this thing that you had working over on the side. We started with a fully functioning system on the wrong platform and kept developing it and making it better, not really understanding how much work it was going to be near the end of the project to get it all working on a new platform. And so, okay, that's first system syndrome, I guess.
 
 **Yan:** Yeah. As opposed to the 15th system syndrome.
 
-**Dave:** Yeah. No, second system syndrome or something. First system on Azure.
+**Dave:** Yeah.
+
+**Adam:** No, second system syndrome or something. First system on Azure.
 
 **Yan:** Yes. Yeah. And that's other interesting stuff that I don't think we've got into yet of the different hosting environments and the changes that happened. Did you see that as a challenge, let's say from the environment that you had in quals to the finals environment, or was it more suited to what your system is able to do?
 
