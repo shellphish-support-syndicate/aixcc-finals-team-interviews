@@ -1,14 +1,22 @@
 # CTF Radio - Team Atlanta AI Cyber Challenge Interview
 
-## Introduction
+## Introduction [0:00](https://youtu.be/w-HZtwUXByg)
 
 **Adam:** Hello everyone. Welcome to CTF radio. In another crazy bit of CTF radio trivia, we've now shattered our record for most number of interviews done and episodes recorded in a two week span. We're at five right now. So Yan, can you give the people what they want? We need you to bring that energy because we're doing all this recording.
 
-**Yan:** Hello hackers. Why did you clap? Why would you clap? That's terrible. There's no need to clap. The clapping is great. The clapping makes it so people can seek into my part, which is of course where everyone starts. No, I'm super excited. We are basically recording non-stop. I see Adam on the other side of my screen basically every day, half the day or more. It's a dream come true.
+**Yan:** Hello hackers.
+
+**Adam:** Why did you clap? Why would you clap? That's terrible. There's no need to clap.
+
+**Yan:** The clapping is great. The clapping makes it so people can seek into my part, which is of course where everyone starts. No, I'm super excited. We are basically recording non-stop. I see Adam on the other side of my screen basically every day, half the day or more. It's a dream come true.
 
 **Adam:** But that should be normal. We work together. We literally have research meetings together.
 
-**Yan:** That's true. But sometimes, you know, you can lock yourself in an office. And because you also have access to my office, I can also hold the handle. I have a key code. My key card opens your office. So I don't know. That was your choice by the way. I hold the candle and the handle and barricade the door.
+**Yan:** That's true. But sometimes, you know, you can lock yourself in an office. And because you also have access to my office, I can also hold the handle.
+
+**Adam:** I have a key code. My key card opens your office. So I don't know. That was your choice by the way.
+
+**Yan:** I hold the handle and barricade the door.
 
 **Adam:** Yeah, sure. You can when you're on the screen. There's no escape. I can call you. I can FaceTime you, man.
 
@@ -24,7 +32,7 @@
 
 **Adam:** Yes. Yes. Yes. But anyways, that's why I'm drinking coffee in the evening.
 
-## Background and Team Context
+## Background and Team Context [2:03](https://youtu.be/w-HZtwUXByg?t=123)
 
 **Yan:** But it's very cool. We mentioned this a lot. But in the Cyber Grand Challenge, which of course was 10 years ago, precursor to the ICC, the stories, a lot of the stories didn't get told. And there was an enormous amount of stories to tell. But of course after the competition everyone is looking to what the new thing is. Probably after the ICC have the teams are going to basically create the next massive AI startup or something and then you'll have forgotten about the competition itself.
 
@@ -32,15 +40,19 @@ But so it's really cool that there's this gap between pencils down - you're done
 
 **Adam:** Yeah that's great. Thanks for that introduction. So we have before we get into the team itself we have four great members of team Atlanta here. So why don't we go around. Taesoo, why don't you introduce yourself first to the good people.
 
-## Team Introductions
+## Team Introductions [3:43]*https://youtu.be/w-HZtwUXByg?t=223)
 
-**Taesoo:** Okay. First of all, thank you for your dedication. That's your amazing efforts. Okay. I really appreciate what you're doing. I always admire what you're doing for community particular AIC. That's great. I'm Taesoo Kim. I'm currently professor at Georgia Tech as well as VP at Samsung Research. Samsung research always want me to say those when I be present in public space.
+**Taesoo:** Okay. First of all, thank you for your dedication. That's your amazing efforts. Okay. I really appreciate what you're doing. I always admire what you're doing for community particular AIxCC. That's great. I'm Taesoo Kim. I'm currently professor at Georgia Tech as well as VP at Samsung Research. Samsung research always want me to say those when I be present in public space.
 
-At the same time team Atlanta as you can see from the name most of the team member are from Georgia Tech. There are many people, my PhD students, some people are graduated from Georgia Tech. So we are everyone's rooted from Georgia Tech in some way or another. At that many of the team member are leader in their own organizations. We are multi-organizational group consisting of KAIST, one of the university in South Korea and POSTECH, previously NYU and we also have some company involved like Samsung research and Samsung research America so we have an interesting mix of all these practitioners and in some of the programmers, engineers and many of PhD student and postdoc working together.
+At the same time team Atlanta as you can see from the name most of the team member are from Georgia Tech. There are many people, my PhD students, some people are graduated from Georgia Tech. So we are everyone's rooted from Georgia Tech in some way or another. At that many of the team member are leader in their own organizations. We are multi-organizational group consisting of KAIST, one of the university in South Korea and POSTECH, previously NYU and we also have some company involved like Samsung research and Samsung research America so we have an interesting mix of all these practitioners and some of the programmers, engineers and many of PhD student and postdoc working together.
 
 **Adam:** That's great. Yeah, I think most of the teams that we've seen are either kind of solidly either academic or industry based. So I'll be interested as we talk more of diving into like how that dynamic works. So great. Why don't who wants to go next to introduce themselves?
 
-**Hanqing:** I can go next please. I'm Hanqing. I'm from Georgia Tech SSLab. I actually, I'm a CTF player as well. I played CTF. I started playing CTF from 12 years ago and I have ever played CTF with team blue Lotus, loop and later team deliverers. Right now in this AIC competition I lead a team focusing on C and C++ bug finding system. We have around five to six people and we made a bug finding system specifically for C and C++.
+**Hanqing:** I can go next.
+
+**Adam:** please.
+
+**Hanqing:** I'm Hanqing. I'm from Georgia Tech SSLab. I actually, I'm a CTF player as well. I played CTF. I started playing CTF from 12 years ago and I have ever played CTF with team Blue Lotus, loop and later Tea Deliverers. Right now in this AIxCC competition I lead a team focusing on C and C++ bug finding system. We have around five to six people and we made a bug finding system specifically for C and C++.
 
 **Adam:** Nice. Awesome. What's your... Do you have a hacker handle since you're a CTF player?
 
@@ -50,27 +62,27 @@ At the same time team Atlanta as you can see from the name most of the team memb
 
 **Hanqing:** Oh, that's my birth birthday.
 
-**Yan:** God, Yan, why'd you have to do that? You share a birthday, a birth year with Windows.
+**Adam:** God, Yan, why'd you have to do that?
 
-**Adam:** Well, not technically, but anyways, Windows 95 was the pinnacle of computing. Let's move on from Windows 95. I don't know why we're there.
+**Yan:** You share a birthday, a birth year with Windows. Well, not technically, but anyways, Windows 95 was the pinnacle of computing. Let's move on from Windows 95. I don't know why we're there.
 
-**Yan:** Because of you.
-
-**Adam:** All right. Great. Well, thank you. Welcome. Welcome. Minwoo, what about you? You want to introduce yourself?
+**Adam:** Because of you. All right. Great. Well, thank you. Welcome. Welcome. Minwoo, what about you? You want to introduce yourself?
 
 **Minwoo:** Hi, I am Minwoo, a PhD student in KAIST advised by Insu Yun who's our team lead of the patching team, and I'm also part of the patching team. And there's around 10 of us in the patching team and I'm glad to be here to introduce what we did for around two years I guess.
 
 **Adam:** Yeah. Awesome. Great. So if the patching works well, it was your success and if it went wrong, it was those other nine peoples, right?
 
-**Minwoo:** It's Insu's fault.
+**Yan:** It's Insu's fault.
 
-**Adam:** Just not here. He wasn't able to join us today. All right. HyungSeok, you want to introduce yourself?
+**Adam:** Just coz he's not here. He wasn't able to join us today. All right. HyungSeok, you want to introduce yourself?
 
-**HyungSeok:** Yeah. Hi, I'm HyungSeok. I'm currently working at a security research team in Samsung research America and previously I was a postdoc in Taesoo's lab in Georgia Tech. That's why I joined the team. At the automatic bug finding team especially for C, C++ and Java and while doing that I also put my many effort to integrate all the system and make them working.
+**HyungSeok:** Yeah. Hi, I'm HyungSeok. I'm currently working at a security research team in Samsung research America and previously I was a postdoc in Taesoo's lab in Georgia Tech. That's why I joined the team Atlanta. At the automatic bug finding team especially for C, C++ and Java and while doing that I also put my many effort to integrate all the system and make them working.
 
-**Adam:** So yeah it was not just working right, working together. That's like the hardest part is what we've been we know from doing it but also from talking to the team we can talk about lot of drama at the end also was we have to wake up every single member in passing teams like 5AM South Korea kind of the last minute hiccup.
+**Adam:** So yeah it was not just working right, working together. That's like the hardest part is what we've been we know from doing it but also from talking to the team.
 
-## Team Structure and Communication
+**Taesoo:** We can talk about lots of drama at the end also was we have to wake up every single member in passing teams like 5AM South Korea kind of the last minute hiccup.
+
+## Team Structure and Communication [8:29](https://youtu.be/w-HZtwUXByg?t=509)
 
 **Adam:** Okay, this is great. Okay, so then give us the... So we got a little bit of details. So roughly like how big is the team? I think it helps kind of frame things. So you have several different organizations and as you mentioned geographically distributed as well. So what's roughly like the size of the team?
 
@@ -82,41 +94,39 @@ At the same time team Atlanta as you can see from the name most of the team memb
 
 **Adam:** Yeah, that's really cool. And it also the PhD students kind of reminded me of what Yan talks about with the cyber grand challenge. I think that was kind of your approach, right? It was you were doing cyber grand challenge but also you were doing normal PhD stuff.
 
-**Yan:** Yeah, it was just normal. You have a deadline like the cyber grand challenge quals is happening and there's a USENIX deadline. It's like exactly.
+**Yan:** Yeah, it was just normal. You have a deadline like the cyber grand challenge quals is happening and there's a USENIX deadline. It's like...
 
-**Adam:** I think this time we are... I think I have to clarify a little bit. We are open track meaning that we didn't get the funding directly from DARPA to prepare this competition. In other word we have to find some of the resources to fund our PhD student which was tricky. We have to deal with this sponsor project while working on this competition as well. There's so much practical challenges behind.
+**Taesoo:** Exactly, I think this time we are... I think I have to clarify a little bit. We are open track meaning that we didn't get the funding directly from DARPA to prepare this competition. In other word we have to find some of the resources to fund our PhD student which was tricky. We have to deal with this sponsor project while working on this competition as well. There's so much practical challenges behind.
 
 **Adam:** Yeah, that's great. So can you talk a little bit? I think you mentioned it but was it and this is also why in case people were... Yan made the joke about drinking coffee late at night. We are recording this at 7:00 and the only reason I mentioned this is because you know I think to do this to accommodate your team right because you are geographically located. So how did you kind of structure the communication of the team to handle like were you all doing I don't know zoom meetings or was it hard to meet synchronously was it asynchronous maybe you could talk about the communication style of the team.
 
-**Taesoo:** I think we also realized that communicating asynchronously through Slack is most effective way to communicate. We realized that working collecting all team member together. In fact this week is a workshop for the entire team member discussing and pitching about their new idea and what we did during the competition. Right now this internal workshop that we are doing every day until next week but collecting all the team member in the single place in a single time zone or near impossible. So that we intentionally divide team in a way that they have a similar time zone so that they can make smaller team get together and talk on Slack. The telecommunication system in Slack, they can just talk casually, but we try to reduce the amount of team wise communication as much as possible.
+**Taesoo:** I think we also realized that communicating asynchronously through Slack is most effective way to communicate. We realized that working collecting all team member together. In fact this week is a workshop for the entire team member discussing and pitching about their new idea and what we did during the competition. Right now this internal workshop that we are doing every day until next week but collecting all the team member in the single place in a single time zone is near impossible. So that we intentionally divide team in a way that they have a similar time zone so that they can make smaller team get together and talk on Slack. The telecommunication system in Slack, they can just talk casually, but we try to reduce the amount of team-wide communication as much as possible.
 
-**Adam:** Nice. Yeah, that totally makes sense. And actually, I think we probably didn't get into it in the Shellfish interview, Yan, but I know that the Shellfish team kind of did that in essence because you had the three universities and so you'd almost naturally kind of coalesce one university like a subgroup maybe in there was working on the same thing because it's so easy when you're all there working on the same thing.
+**Adam:** Nice. Yeah, that totally makes sense. And actually, I think we probably didn't get into it in the Shellphish interview, Yan, but I know that the Shellphish team kind of did that in essence because you had the three universities and so you'd almost naturally kind of coalesce one university like a subgroup maybe in there was working on the same thing because it's so easy when you're all there working on the same thing. I think as the competition went on, it was more and more cross university just because they were more used to working with each other. But yeah, it's easier to work with people that are near you.
 
-**Yan:** I think as the competition went on, it was more and more cross university just because they were more used to working with each other. But yeah, it's easier to work with people that are near you. My understanding is the early version of our patching system on shellfish for example is very much single university, two different single university systems and then they merged and grew together. The difference is though everyone's in the US on Shellfish and so Shellfish was able to gather very regularly in single some third party places right like big Airbnbs and stuff. I think you guys had an extra challenge there.
+**Yan:**My understanding is the early version of our patching system on shellfish for example is very much single university, two different single university systems and then they merged and grew together. The difference is though everyone's in the US on Shellphish and so Shellphish was able to gather very regularly in single some third party places right like big Airbnbs and stuff. I think you guys had an extra challenge there. That's quite... we have a former student who's a professor in Korea and finding a time to meet that's not in the middle of the night for him and not in the middle of like right during dinner time or something for us is tough.
 
-**Adam:** That's quite... we have a former student who's a professor in Korea and finding a time to meet that's not in the middle of the night for him and not in the middle of like right during dinner time or something for us is tough.
-
-## Cyber Reasoning System Architecture
+## Cyber Reasoning System Architecture [13:34](https://youtu.be/w-HZtwUXByg?t=814)
 
 **Adam:** Wow. Interesting. Now let's get into the cyber reasoning system. Of course, the reason why we're all here. So, first question, what's the name of your CRS?
 
-**Taesoo:** I think HyungSeok came up with the idea. Our CRS name is Atlantis the hero.
+**Taesoo:** I think Hanqing came up with the idea. Our CRS name is Atlantis.
 
-**Adam:** Oh, that's great. He probably asked ChatGPT.
+**Yan:** Oh, that's great.
 
-**Taesoo:** I think that's the best we can think of. We are not very creative. So we leverage the creativity of LLM. One thing we actually realized during the competitions as well the creativity the human has is not comparable to the creativity the computer has. So I think creativity is not the unique thing for human.
+**Taesoo:** He probably asked ChatGPT. I think that's the best we can think of. We are not very creative. So we leverage the creativity of LLM. One thing we actually realized during the competitions as well the creativity the human has is not comparable to the creativity the computer has. So I think creativity is not the unique thing for human.
 
 **Adam:** Interesting. Wow. Bold words. Bold words. Okay. So Atlantis, is that a... is that just the name or is it like an acronym that backfills into something?
 
-**Taesoo:** ChatGPT can make a backfill work pretty well.
+**Yan:** GPT can make a backfill work pretty well.
 
-**Yan:** Yeah, the sorry the question was if Atlantis is like an acronym or is it just the system is just called Atlantis and that's your final answer.
+**Adam:** Yeah, sorry the question was if Atlantis is like an acronym or is it just the system is just called Atlantis and that's your final answer.
 
 **Taesoo:** I think we vaguely call the entire system is Atlantis but internally there are I would say different maybe five different major component working together. I think I can briefly explain the architectures of what we did.
 
 **Adam:** Yeah, that'd be great like as a high level overview and then we can dig in.
 
-**Taesoo:** I think I can explain some historic aspect of our system as well. Previously in the semifinal major focus is a Linux kernel and user space program. So our CRS naturally divided into kernel focus which HyungSeok was leading and user space CRS that Hanqing was leading at the time and there was Java side as well. But when the competition evolved, kernel spaces naturally disappear because the compatibility is no longer OS project. So we retarget the entire kernel people into what we call multi-language systems that target both C and Java at the same time while keeping two specialized CRS for C and Java alongside there is a patching system universally handle both the requests in two different languages and there are sheriff team that handle the validity of the sheriff so basically five big team collaborating together in CRS development.
+**Taesoo:** I think I can explain some historic aspect of our system as well. Previously in the semifinal major focus is a Linux kernel and user space program. So our CRS naturally divided into kernel focus which HyungSeok was leading and user space CRS that Hanqing was leading at the time and there was Java side as well. But when the competition evolved, kernel spaces naturally disappear because the compatibility is no longer OS project. So we retarget the entire kernel people into what we call multi-language systems that target both C and Java at the same time while keeping two specialized CRS for C and Java alongside there is a patching system universally handle both the requests in two different languages and there are SARIF team that handle the validity of the SARIF so basically five big team collaborating together in CRS development.
 
 **Adam:** Nice. Okay so then what what were the kind of techniques that you employed like in those kind of at a high level...
 
@@ -124,27 +134,31 @@ At the same time team Atlanta as you can see from the name most of the team memb
 
 **Taesoo:** That's a great questions. We intentionally... I'll say our team relatively bigger than the other I guess so that we intentionally divide the systems in order to manner. If C space CRS design for C doesn't work we hope that multi-language CRS can handle. So these are three system working really independently. So there's a C component and Java component and there is baseline component where we call multi-language. They really working independently but there of course there is a API layer that communicate with the organization but internally there is a really separate component.
 
-**Yan:** Did you ever do contests between the different CRS's because you basically did this three times. Hey you fired one of the teams that didn't do well.
+**Yan:** Did you ever do contests between the different CRS's because you basically did this three times.
 
-**Taesoo:** Right. Exactly. There's only space for two cyber reasoning systems in our cyber reasoning system. I think that so one of philosophy that we have we have a benchmark systems probably any other people have as well. We can compare the performance between two CRS. But when it come to the two benchmark which are meet together, we intentionally make some decision to separate them out. The best outcome is that minimize the amount of common bug find like bug that we find. We like to minimize that but when everything is unified we hope that we can cover many more. So when it come to I would say specialized C work we push some of the techniques specialized for the C as much as possible for the multi-language team for example we try to incorporate completely different techniques when it come to bug finding for example like one great example is symbolic execution we integrate symbolic execution is one of the ensemble fuzzer inside the multi-language but not in the user space for example so I think we have intentional decision that multiple CRS cooperatively make the best result not overlapping or waste of resources at the end.
+**Adam:** Yeah, you fired one of the teams that didn't do well.
 
-## System Integration and Architecture
+**Yan:** Right. Exactly. There's only space for two cyber reasoning systems in our cyber reasoning system.
 
-**Yan:** Now what about and sorry to keep running with this this fascinates me the plumbing there's all this plumbing code maybe a different thing from an architectural standpoint. So you have these different systems, right? Can you... So there must be something at the top, right? That's controlling what gets submitted, which we can maybe get into. But then how much intercomponent communication like if the C component finds a crash does it communicate that to the multi-language component that it can then use that to find more bugs.
+**Taesoo:** I think that so one of philosophy that we have we have a benchmark systems probably any other people have as well. We can compare the performance between two CRS. But when it come to the two benchmark which are meet together, we intentionally make some decision to separate them out. The best outcome is that minimize the amount of common bug find like bug that we find. We like to minimize that but when everything is unified we hope that we can cover many more. So when it come to I would say specialized C work we push some of the techniques specialized for the C as much as possible for the multi-language team for example we try to incorporate completely different techniques when it come to bug finding for example like one great example is symbolic execution we integrate symbolic execution is one of the ensemble fuzzer inside the multi-language but not in the user space for example so I think we have intentional decision that multiple CRS cooperatively make the best result not overlapping or waste of resources at the end.
 
-**Taesoo:** I think I can explain all this architectural relationship. I think it's good time for HyungSeok to jump on and can describe about our sheriff sharings and submission and patch.
+## System Integration and Architecture [18:45](https://youtu.be/w-HZtwUXByg?t=1125)
+
+**Yan:** Now what about and sorry to keep running with this this fascinates me the plumbing there's all this plumbing code.
+
+**Adam:** Maybe a different thing from an architectural standpoint. So you have these different systems, right? Can you... So there must be something at the top, right? That's controlling what gets submitted, which we can maybe get into. But then how much intercomponent communication like if the C component finds a crash does it communicate that to the multi-language component that it can then use that to find more bugs.
+
+**Taesoo:** I think I can explain all this architectural relationship. I think it's good time for HyungSeok to jump on and can describe about our seed corpus sharings and submission and patch dedup.
 
 **Adam:** Yeah, you had to get all this working together. That makes sense.
 
-**HyungSeok:** Yeah. Let me briefly explain how our system work. So if the challenge program is given to our system then our challenge program manager component will be came up and then challenge program manager will launch C bug finding for C and bug finding for multi-language simultaneously and then if they find some seed then they're going to share the seed but if they find some POV then they will just submit to the challenge program manager then challenge program manager feature will verify the given POV really triggered the bug because sometimes our bug finding module sometimes missubmit the wrong POV. So to filter out such cases we intentionally re-evaluate the POV really triggered the bug and after that based on the given based on the some call stack we deduplicate the POV and if it is unique POV then we are going to pass that POV to patching module and sheriff module as well and wait for the generated patch and sheriff assessment as well and then submit them with some bundle.
+**HyungSeok:** Yeah. Let me briefly explain how our system work. So if the C challenge program(CP) is given to our system then our challenge program manager component will be came up and then challenge program manager will launch C bug finding for C and bug finding for multi-language simultaneously and then if they find some seed then they're going to share the seed but if they find some POV then they will just submit to the challenge program manager then challenge program manager feature will verify the given POV really triggered the bug because sometimes our bug finding module sometimes missubmit the wrong POV. So to filter out such cases we intentionally re-evaluate the POV really triggered the bug and after that based on the given based on the some call stack we deduplicate the POV and if it is unique POV then we are going to pass that POV to patching module and SARIF module as well and wait for the generated patch and SARIF assessment as well and then submit them with some bundle.
 
-**Yan:** Yeah. Wow, that's very cool. Jan, does that answer your question or...
+**Adam:** Yeah. Wow, that's very cool. Yan, does that answer your question or...
 
 **Yan:** Yeah, it does. I think the thing that so a lot of the teams we talked about I want to say all but I honestly don't remember. I think all wrote their own like queuing and plumbing system for communication between components. So you have these three CRS's do they all use different instances of the same plumbing system or did everyone make different decisions and you have three different plumbing systems to also integrate?
 
-**HyungSeok:** I think we are sharing the same API for submitting and sharing the corpus.
-
-**Yan:** Yeah. Okay, we are yeah centralized.
+**HyungSeok:** I think we are sharing the same API for submitting and sharing the corpus. Yeah. Okay, we are yeah centralized.
 
 **Adam:** Nice. Nice. Cool. It makes sense.
 
@@ -152,19 +166,23 @@ At the same time team Atlanta as you can see from the name most of the team memb
 
 **Adam:** That's really interesting. That's fascinating.
 
-## C/C++ CRS Deep Dive
+## C/C++ CRS Deep Dive [22:22](https://youtu.be/w-HZtwUXByg?t=1342)
 
-**Adam:** Okay so then maybe we can start opening up these mini CRS's. So maybe Hanqing can you take us through like the C C++ CRS like what are the kind of steps... CRS is cyber reasoning subsystem? Wow.
+**Adam:** Okay so then maybe we can start opening up these mini CRS's. So maybe Hanqing can you take us through like the C C++ CRS like what are the kind of steps...
+
+**Yan:** CRSSs, cyber reasoning subsystem.
+
+**Adam:** Wow.
 
 **Hanqing:** Yes. So our C and C++ CRS is actually a pretty large scale microservice-based distributed system. You know in this competition we have a lot of cores, a lot of resources on Azure. We cannot do things like we did in the academic prototypes. Usually they are just a pretty small tool. So in this competition I designed an architecture to make it scalable to a large scale distributed system. You know there are some kind of challenges like how can we dispatch the fuzzers, the LLM modules and all of the utilities other components to different machines, different nodes, different containers. Also there are some challenges like you know the fuzzers are pretty fast but the language models are pretty slow. How can adjusted the performance difference. So finally our CRS is based on the Kafka based message queuing system and we all of the sub components communicates asynchronously. In that case we can easily support components having different languages. For example, our fuzzer is rust. Fuzzer is C, C++. But most of our controller modules are Python based in this case.
 
-**Adam:** That was going to be my question. I thought everything was going to be rust.
+**Adam:** That was going to be my question. Taesoo, I thought everything was going to be rust. This is what ..
 
-**Hanqing:** This is what most of them are rust. But like that's another interesting things. We scan through the existing libraries that handle those hiccups in LLM systems like LLM libraries and what not. Many of them are just Python. There's no rust support. So we are constrained by the timeline and then we cannot teach everyone to speak Rust. So we have many decision that just adopt Python which everyone's familiar with. It's a first class support from the provider. So we had to make some adult decision given the timeline.
+**Taesoo:** Most of them are rust. But like that's another interesting things. We scan through the existing libraries that handle those hiccups in LLM systems like LLM libraries and what not. Many of them are just Python. There's no rust support. So we are constrained by the timeline and then we cannot teach everyone to speak Rust. So we have many decision that just adopt Python which everyone's familiar with. It's a first class support from the provider. So we had to make some adult decision given the timeline.
 
 **Adam:** Yeah. No, that makes sense.
 
-## Patching System Architecture
+## Patching System Architecture [25:15](https://youtu.be/w-HZtwUXByg?t=1515)
 
 **Adam:** Okay. Then where does patching sit in all this? Is each is patching done in each CRS like subcomponent? Like do they each have different patching strategies or is there like a central patching system?
 
@@ -268,7 +286,7 @@ At the same time team Atlanta as you can see from the name most of the team memb
 
 **Taesoo:** Exactly.
 
-**Adam:** Architectures, seven bit architectures and so you know figuring out that middle ground, but AIC went almost all the way in the other direction, right? It's like, you know, you have to...
+**Adam:** Architectures, seven bit architectures and so you know figuring out that middle ground, but AIxCC went almost all the way in the other direction, right? It's like, you know, you have to...
 
 **Taesoo:** Yeah. So it's super hard the nature.
 
@@ -334,11 +352,11 @@ At the same time team Atlanta as you can see from the name most of the team memb
 
 **Taesoo:** Yeah. So one of yeah one of the any total example right now in our lab is that when people doing reverse engineering or the time of hidden binary like unknown binary now people just copy and paste assembly to ChatGPT they realize it's better than IDA better than like JEB or what not they start relying on LLM every single workflow that we have in terms of reverse engineering or traditional software analysis it's a new...
 
-**Adam:** Yeah. Yeah. It's really crazy and and it's I think that's the beauty of this competition especially because it is in many ways kind of the the next level of the cyber grand challenge, right? is you have if a bunch of AI bros came in and you know were saying yeah it's a new world it's just a bunch of people saying this but we have seven teams full of some of the top program analysis researchers in the last several decades and they're saying this and that's I think that's one of the biggest values of of of this AIC.
+**Adam:** Yeah. Yeah. It's really crazy and and it's I think that's the beauty of this competition especially because it is in many ways kind of the the next level of the cyber grand challenge, right? is you have if a bunch of AI bros came in and you know were saying yeah it's a new world it's just a bunch of people saying this but we have seven teams full of some of the top program analysis researchers in the last several decades and they're saying this and that's I think that's one of the biggest values of of of this AIxCC.
 
-**Taesoo:** Yeah exactly. We are joking all the time. This best outcome of AIC is to convert the top hacker to the AI domain. Just expose that. Yeah. It's not about the AIC CRS. What now? They're going to be outdated pretty quickly. This pace of AI is crazy. Now we open up. So we start working on those crazy stuff at the time and start integrating those our job.
+**Taesoo:** Yeah exactly. We are joking all the time. This best outcome of AIxCC is to convert the top hacker to the AI domain. Just expose that. Yeah. It's not about the AIxCC CRS. What now? They're going to be outdated pretty quickly. This pace of AI is crazy. Now we open up. So we start working on those crazy stuff at the time and start integrating those our job.
 
-**Adam:** It also speaks to like the AIC as a competition catching wind right when these models because just like you said Taesoo I think us is very similar. I was incredibly skeptical when when this came out, but I was like yeah, we should definitely do it. That that sounds like fun. Like why not do it, right? And like sure if fuzzing and program analysis is the best approach. Like that's awesome. But but then you know but then even like towards quals the students showed us some results and you're like wow it seems like it's kind of working and then as things got more and more it just got better and better and really kind of took off to this level level where a new model would come out and then boom we're patching things that we weren't able to patch before and it's just wild to me.
+**Adam:** It also speaks to like the AIxCC as a competition catching wind right when these models because just like you said Taesoo I think us is very similar. I was incredibly skeptical when when this came out, but I was like yeah, we should definitely do it. That that sounds like fun. Like why not do it, right? And like sure if fuzzing and program analysis is the best approach. Like that's awesome. But but then you know but then even like towards quals the students showed us some results and you're like wow it seems like it's kind of working and then as things got more and more it just got better and better and really kind of took off to this level level where a new model would come out and then boom we're patching things that we weren't able to patch before and it's just wild to me.
 
 **Yan:** Yeah. It's Go ahead. I I had a lot of conversations with kind of DARPA PMs and and so on in the in the interim between the the cyber challenge the ICC and I think one of the things that people point to is this exact effect back in the original cyber not non-cyber grand challenge the DARE held for self-driving cars right in the early days of of these grand challenges one of the biggest side effects that first challenge. No car made it to the finish line, right? It was like from some perspective it it was a failed challenge, but suddenly you had all of these top researchers that were now enthralled in self-driving cars and that leads directly to me taking a Waymo on the way here today, right? So, it's like, yeah, it's awesome.
 
@@ -398,7 +416,7 @@ At the same time team Atlanta as you can see from the name most of the team memb
 
 **Adam:** Yeah, it really becomes kind of like an all-consuming project, right? There's and like you said, there's so much stuff you could do, right? Especially as the models get better and you get more ideas, but you have to temper the the crazy like I want to develop this crazy new component versus I'm going to really make sure this thing works.
 
-**Taesoo:** But I think one thing that worry me the most is that AIC for example like paper review research and I've been rejecting or decline all these requests say I going to focus on AIC this is the main things last two years I'm not doing anything else but now I have to find something to work on so you don't have to review papers that's what you're saying I have to study paper I I kept telling our students on the last last couple of days.
+**Taesoo:** But I think one thing that worry me the most is that AIxCC for example like paper review research and I've been rejecting or decline all these requests say I going to focus on AIxCC this is the main things last two years I'm not doing anything else but now I have to find something to work on so you don't have to review papers that's what you're saying I have to study paper I I kept telling our students on the last last couple of days.
 
 **Adam:** It's like after an event like this where you focus your entire life for this long, there's no alternative to just being lost and depressed for some time. Like in the cyber challenge happened to everyone, the the winners, the losers, anyone. And yeah, that that is, you know, by the end of the CGC, I was pulling these insane 32-hour days where I would work for 24 hours straight and then I'd go home and sleep for eight. And so I'd like shift over time. And that was like my entire everything was in in that competition. And then it was over and I wake up after Defcon and like now what? What am I gonna say? Nothing to do. You're a PhD student, man. Write papers, do research.
 
@@ -428,7 +446,7 @@ At the same time team Atlanta as you can see from the name most of the team memb
 
 **HyungSeok:** Yeah, says get somebody else to run and test this damn thing so I don't have to do it. Anyone? Yeah. Any anyone want to to describe what you wrote it down for our workshop? You can you can go ahead.
 
-**HyungSeok:** I think the first one is building the high quality benchmark at the beginning rather than building them later because it drive us to develop our strategy and our system. So yeah but in our case we yeah you know the the format of AIC competition is keep changing. So we we should change our benchmark as well. So it was very... Yeah. Yeah. So yeah, that that's the first one. And also yeah, let me check. Oh, I think we better to explore more how to utilize a large language model better than now. For example, so in our module, we give coverage feedback to large language model to generate better generation script or mutation script. It is quite hard because we have some context length limit and we have have some TPM and we have some credit limit. So how to efficiently provide some these coverage information or other very useful feedback to your large language model to make them better such kind of things. Yeah, we have a bunch of things related to large language model things and nice.
+**HyungSeok:** I think the first one is building the high quality benchmark at the beginning rather than building them later because it drive us to develop our strategy and our system. So yeah but in our case we yeah you know the the format of AIxCC competition is keep changing. So we we should change our benchmark as well. So it was very... Yeah. Yeah. So yeah, that that's the first one. And also yeah, let me check. Oh, I think we better to explore more how to utilize a large language model better than now. For example, so in our module, we give coverage feedback to large language model to generate better generation script or mutation script. It is quite hard because we have some context length limit and we have have some TPM and we have some credit limit. So how to efficiently provide some these coverage information or other very useful feedback to your large language model to make them better such kind of things. Yeah, we have a bunch of things related to large language model things and nice.
 
 **Adam:** You just have to convince Samsung to build their own large language model now. So, we have...
 
@@ -448,7 +466,7 @@ At the same time team Atlanta as you can see from the name most of the team memb
 
 ## CTF Comparison and Future Predictions
 
-**Adam:** Question I have real quick for hanqing95 over here. How is the AIC in your mind because you've been involved in some top CTF teams, top CTFs. How's the AIC compared to a CTF?
+**Adam:** Question I have real quick for hanqing95 over here. How is the AIxCC in your mind because you've been involved in some top CTF teams, top CTFs. How's the AIxCC compared to a CTF?
 
 **Hanqing:** I actually feel like it is the next the next version of CGC. So compared to the CTF we you know in the CTF we usually focus on how to exploit the bugs, how to exploit the low quality bugs actually but for this competition we are more focusing on the bug finding. It is pretty different from the CTF. You you know in the CTF we usually usually do the reverse engineering by using human. In this case in the competition we need to replicate ourselves to to make our agents our system to mimic the ideas in our mind that's also the philosophy for us to design the system to replicate the security researchers into the agents.
 
